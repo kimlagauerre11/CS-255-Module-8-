@@ -26,7 +26,3 @@ AI Acknowledgment
 
 I used ChatGPT to help organize my reflection, review the assignment requirements, and provide feedback on my written responses. I reviewed and revised the final content before submission.
 I also think asking questions early is important. It is easier to clear up a misunderstanding during the design process than after the system has already been built.
-
-## AI Acknowledgment
-
-I used ChatGPT to help organize my reflection, review the assignment requirements, and provide feedback on my written responses. I reviewed and revised the final content before submission.
