@@ -21,8 +21,3 @@ My Approach to Software Design
 I usually approach software design by first figuring out what needs to happen, why it matters, and then how the system can support it. In the future, I would continue using requirements gathering, process modeling, UML diagrams, and feedback from users or stakeholders before getting too far into development.
 
 I also think asking questions early is important. It is easier to clear up a misunderstanding during the design process than after the system has already been built.
-
-AI Acknowledgment
-
-I used ChatGPT to help organize my reflection, review the assignment requirements, and provide feedback on my written responses. I reviewed and revised the final content before submission.
-I also think asking questions early is important. It is easier to clear up a misunderstanding during the design process than after the system has already been built.
